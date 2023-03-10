@@ -1,0 +1,13 @@
+*/__pycache__/
+*.pyc
+*.bak
+
+classifier_pth/
+code_layer/runs/
+data/
+demo_test/
+experiment_log/
+summary/
+tmp_batch32_CW-U_vgg_cifar/
+tmp_dataset_arcfacebn_arcface/
+tmp_dataset_vgg11bn_cifar10/
